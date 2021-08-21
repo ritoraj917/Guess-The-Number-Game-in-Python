@@ -1,0 +1,2 @@
+# Guess-The-Number-Game-in-Python
+This is a simple number guessing game. Here the computer will generate a three digit random number where all the digits are distinct. The user has to guess what the number is. For every wrong guess, the computer will give the user a hint based on his/her/their guess. It might sound impossible, but actually the probability of winning is fairly good in this game, because of the way the hints are provided. 
